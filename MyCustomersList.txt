@@ -1,0 +1,69 @@
+CONFIDENTIAL – INTERNAL USE ONLY
+
+This document contains sensitive information and is intended solely
+for authorized personnel involved in internal testing.
+
+--------------------------------------------------
+SECTION 1: CUSTOMER INFORMATION
+--------------------------------------------------
+
+Customer Name: John A. Williams
+Customer ID: CUST-948271
+Email Address: john.williams@example-corp.com
+Phone Number: +1 (415) 555-0198
+
+Mailing Address:
+742 Evergreen Terrace
+San Jose, CA 95131
+United States
+
+--------------------------------------------------
+SECTION 2: PAYMENT DETAILS
+--------------------------------------------------
+
+Credit Card Holder: John A. Williams
+Credit Card Number: 4111 1111 1111 1111
+Expiration Date: 09/28
+CVV: 123
+
+Billing Account Reference: ACC-77281933
+
+--------------------------------------------------
+SECTION 3: BANKING INFORMATION
+--------------------------------------------------
+
+Bank Name: Example National Bank
+Account Holder: John A. Williams
+Account Number: 9876543210
+Routing Number: 021000021
+SWIFT Code: EXNBUS33
+
+--------------------------------------------------
+SECTION 4: GOVERNMENT IDENTIFIERS
+--------------------------------------------------
+
+Social Security Number (SSN): 123-45-6789
+Driver’s License Number: CA-DL-74298123
+Passport Number: X12345678
+Country of Issue: United States
+
+--------------------------------------------------
+SECTION 5: EMPLOYEE DATA (INTERNAL)
+--------------------------------------------------
+
+Employee Name: Sarah Thompson
+Employee ID: EMP-33291
+Corporate Email: sarah.thompson@example-corp.com
+Role: Finance Manager
+Annual Salary: $148,000 USD
+
+--------------------------------------------------
+SECTION 6: CONFIDENTIAL NOTES
+--------------------------------------------------
+
+This file includes regulated personal data (PII), financial information,
+and internal employee records. Redistribution outside approved systems
+is strictly prohibited.
+
+--------------------------------------------------
+END OF DOCUMENT
