@@ -1,28 +1,18 @@
 CONFIDENTIAL – INTERNAL USE ONLY
 
 This document contains sensitive information and is intended solely
-for authorized personnel involved in internal testing.
-
---------------------------------------------------
-SECTION 1: CUSTOMER INFORMATION
---------------------------------------------------
+for authorized personnel involved.
 
 Customer Name: John A. Williams
 Customer ID: CUST-948271
-Email Address: john.williams@example-corp.com
-Phone Number: +1 (415) 555-0198
-
-Mailing Address:
-742 Evergreen Terrace
-San Jose, CA 95131
-United States
-
---------------------------------------------------
-SECTION 2: PAYMENT DETAILS
---------------------------------------------------
-
-Credit Card Holder: John A. Williams
-Credit Card Number: 4111 1111 1111 1111
-Expiration Date: 09/28
-CVV: 123
 Social Security Number (SSN): 123-45-6789
+
+Employee Name: Sarah M. Thompson
+Employee ID: EMP-772194
+Date of Birth: 08/14/1987
+National ID (SSN): 987-65-4321
+
+Client Name: Michael R. Chen
+Account Number: ACCT-556209
+Tax Identification Number (TIN): 45-3321987
+Email: michael.chen@companymail.com
