@@ -4,15 +4,10 @@ This document contains sensitive information and is intended solely
 for authorized personnel involved.
 
 Customer Name: John A. Williams
-Customer ID: CUST-948271
 Social Security Number (SSN): 123-45-6789
 
 Employee Name: Sarah M. Thompson
-Employee ID: EMP-772194
-Date of Birth: 08/14/1987
 National ID (SSN): 987-65-4321
 
 Client Name: Michael R. Chen
-Account Number: ACCT-556209
 Tax Identification Number (TIN): 45-3321987
-Email: michael.chen@companymail.com
