@@ -8,6 +8,3 @@ Social Security Number (SSN): 123-45-6789
 
 Employee Name: Sarah M. Thompson
 National ID (SSN): 987-65-4321
-
-Client Name: Michael R. Chen
-Tax Identification Number (TIN): 45-3321987
